@@ -142,6 +142,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7FEB493768E80E6232C5213C61727BFF86F400CA",
+			"Assets": [
+				"/Game/Assets/M_ArenaGlass",
+				"/Game/Assets/M_BouncePad"
+			]
+		},
+		{
 			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
@@ -582,6 +589,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
+			"Assets": [
+				"/Game/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -759,9 +772,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
+			"ShaderMapHash": "3A3CA0CC0F6959DE13DF84055412AC59E5F1DE20",
 			"Assets": [
-				"/Game/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_Body"
+				"/Game/FirstPerson/Maps/FirstPersonMap"
 			]
 		}
 	]
