@@ -144,8 +144,9 @@
 		{
 			"ShaderMapHash": "7FEB493768E80E6232C5213C61727BFF86F400CA",
 			"Assets": [
-				"/Game/Assets/M_ArenaGlass",
-				"/Game/Assets/M_BouncePad"
+				"/Game/Assets/M_BouncePad",
+				"/Game/Assets/M_RedGoalGlass",
+				"/Game/Assets/M_BlueGoalGlass"
 			]
 		},
 		{
@@ -775,6 +776,18 @@
 			"ShaderMapHash": "3A3CA0CC0F6959DE13DF84055412AC59E5F1DE20",
 			"Assets": [
 				"/Game/FirstPerson/Maps/FirstPersonMap"
+			]
+		},
+		{
+			"ShaderMapHash": "68EB6CB204DEFF5C8274783766BF672E106093F4",
+			"Assets": [
+				"/Game/Assets/M_BallGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "9D5F3F7500F666C5CC96BDE757C8F02A85921787",
+			"Assets": [
+				"/Game/Assets/M_ArenaGlass"
 			]
 		}
 	]
