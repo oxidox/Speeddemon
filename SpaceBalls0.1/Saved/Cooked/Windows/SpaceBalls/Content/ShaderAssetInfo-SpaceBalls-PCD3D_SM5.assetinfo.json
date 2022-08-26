@@ -144,8 +144,8 @@
 		{
 			"ShaderMapHash": "7FEB493768E80E6232C5213C61727BFF86F400CA",
 			"Assets": [
-				"/Game/Assets/M_BouncePad",
 				"/Game/Assets/M_RedGoalGlass",
+				"/Game/Assets/M_BouncePad",
 				"/Game/Assets/M_BlueGoalGlass"
 			]
 		},
@@ -590,6 +590,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "29CF6465FE6C622CE6C7F91730217E3FC9DC11C2",
+			"Assets": [
+				"/Game/Assets/M_BallGlass"
+			]
+		},
+		{
 			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
 			"Assets": [
 				"/Game/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_Body"
@@ -773,19 +779,25 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3A3CA0CC0F6959DE13DF84055412AC59E5F1DE20",
+			"ShaderMapHash": "F4FFD13544DBFDAF62F9220894B9D3A8D3378AF7",
 			"Assets": [
 				"/Game/FirstPerson/Maps/FirstPersonMap"
 			]
 		},
 		{
-			"ShaderMapHash": "68EB6CB204DEFF5C8274783766BF672E106093F4",
+			"ShaderMapHash": "EFE24461E5B7CE50DA21E3C1691D9C34EA161D32",
 			"Assets": [
-				"/Game/Assets/M_BallGlass"
+				"/Game/Assets/M_Grass"
 			]
 		},
 		{
-			"ShaderMapHash": "9D5F3F7500F666C5CC96BDE757C8F02A85921787",
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Assets/10093_Wembley_stadion_V1_Diffuse1"
+			]
+		},
+		{
+			"ShaderMapHash": "D1537D19C4E223919D272F982E49A10450CEACBF",
 			"Assets": [
 				"/Game/Assets/M_ArenaGlass"
 			]

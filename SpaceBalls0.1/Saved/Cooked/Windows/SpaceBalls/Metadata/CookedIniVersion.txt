@@ -468,6 +468,8 @@ Engine:SystemSettings:r.Shadow.DetectVertexShaderLayerAtRuntime:0=1
 Engine:OnlineSubsystem:PollingIntervalInMs:0=20
 Engine:OnlineSubsystem:AdditionalModulesToLoad:0=HTTP
 Engine:OnlineSubsystem:AdditionalModulesToLoad:1=XMPP
+Engine:OnlineSubsystem:DefaultPlatformService:0=Steam
+Engine:OnlineSubsystemSteam:bEnabled:0=true
 Engine:OnlineSubsystemNull:bEnabled:0=true
 Engine:OnlineSubsystemNull:bAutoLoginAtStartup:0=true
 Engine:OnlineSubsystemNull:bRequireLoginCredentials:0=false
@@ -640,7 +642,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformBuildTarget:0=()
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:LaunchOnTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Henke/Desktop/Lucioball0.1.3")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Henke/Desktop/SpaceBall 0.1.4")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
