@@ -53,62 +53,6 @@
 			"ChunkId": "a8a408dbac6bb61700000001"
 		},
 		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset",
-			"ChunkId": "7b967f8ff09764ce00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset",
-			"ChunkId": "931f8593c76b1a3700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset",
-			"ChunkId": "3bd77c49df92ee7b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset",
-			"ChunkId": "bb0c9910913c4acc00000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset",
-			"ChunkId": "3f4f90b51972562400000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset",
-			"ChunkId": "b2e55f36209c19b000000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
-			"ChunkId": "8d4486caf50605b200000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset",
-			"ChunkId": "84ee12d7bc5f5a8000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset",
-			"ChunkId": "c1ceadea19a929af00000001"
-		},
-		{
-			"Path": "Engine/Content/Tutorial/ContentIntroCurve.uasset",
-			"ChunkId": "3cf25e9da31d4f2a00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
-			"ChunkId": "a325708448a8980800000001"
-		},
-		{
-			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset",
-			"ChunkId": "a257a4a1759b7c6d00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset",
-			"ChunkId": "7bae9d93c88ae44900000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
-			"ChunkId": "efd3b99beb745ea100000001"
-		},
-		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset",
 			"ChunkId": "b60fa590a5fe4d6f00000001"
 		},
@@ -229,12 +173,84 @@
 			"ChunkId": "8500a33b2fedbab800000001"
 		},
 		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset",
+			"ChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset",
+			"ChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset",
+			"ChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset",
+			"ChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset",
+			"ChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset",
+			"ChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
+			"ChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset",
+			"ChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset",
+			"ChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Path": "Engine/Content/Tutorial/ContentIntroCurve.uasset",
+			"ChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
+			"ChunkId": "5c918efb403d4bb200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
+			"ChunkId": "5c918efb403d4bb200000002"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
+			"ChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset",
+			"ChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset",
+			"ChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
 			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
 			"ChunkId": "7f8259be57e87dce00000001"
 		},
 		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset",
 			"ChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
+			"ChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
+			"ChunkId": "27d3dbbd9cb5875a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
+			"ChunkId": "27d3dbbd9cb5875a00000002"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
@@ -245,12 +261,8 @@
 			"ChunkId": "2cc5808063f890db00000002"
 		},
 		{
-			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
-			"ChunkId": "5c918efb403d4bb200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
-			"ChunkId": "5c918efb403d4bb200000002"
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset",
+			"ChunkId": "55c5d73fec0135d200000001"
 		},
 		{
 			"Path": "Engine/Content/EditorLandscapeResources/DataLayer.uasset",
@@ -295,6 +307,30 @@
 		{
 			"Path": "Engine/Content/VREditor/TransformGizmo/Main.uasset",
 			"ChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairDebugColor.uasset",
+			"ChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairColorMap.uasset",
+			"ChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
+			"ChunkId": "0bf1d6a9c47f8ccc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
+			"ChunkId": "0bf1d6a9c47f8ccc00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
+			"ChunkId": "ba6543c81e92e56d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
+			"ChunkId": "ba6543c81e92e56d00000002"
 		},
 		{
 			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
@@ -349,126 +385,6 @@
 			"ChunkId": "f421d8f857b9ed0300000002"
 		},
 		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
-			"ChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
-			"ChunkId": "e61c20398c40eda200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
-			"ChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Path": "SpaceBalls/Content/UI/MainMenu/MainMenu_Controller.uasset",
-			"ChunkId": "b812bb5ace6c5b7800000001"
-		},
-		{
-			"Path": "SpaceBalls/Content/Assets/M_BlueGoalGlass.uasset",
-			"ChunkId": "84fa982f00e4344200000001"
-		},
-		{
-			"Path": "SpaceBalls/Content/Assets/M_RedGoalGlass.uasset",
-			"ChunkId": "f223258ba1992a5d00000001"
-		},
-		{
-			"Path": "SpaceBalls/Content/Actors/BallPhysicalMaterial.uasset",
-			"ChunkId": "07df92f9d9e05bab00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
-			"ChunkId": "27d3dbbd9cb5875a00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
-			"ChunkId": "27d3dbbd9cb5875a00000002"
-		},
-		{
-			"Path": "SpaceBalls/Content/Assets/M_BallGlass.uasset",
-			"ChunkId": "49cf0acb782bb0ba00000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
-		},
-		{
-			"Path": "SpaceBalls/Content/FirstPerson/Maps/MainMenu_BuiltData.uasset",
-			"ChunkId": "f1c1864e0365882400000001"
-		},
-		{
-			"Path": "SpaceBalls/Content/FirstPerson/Maps/MainMenu_BuiltData.ubulk",
-			"ChunkId": "f1c1864e0365882400000002"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
-			"ChunkId": "b85ee5fd59f4dd2000000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
-			"ChunkId": "ff5a26a059754af200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
-			"ChunkId": "2127f99d332bc85400000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
-			"ChunkId": "42a5bdf71bdb9f1200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
-			"ChunkId": "a8fda97722bfb0e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_TriggerBox.uasset",
-			"ChunkId": "8953c1244c740aad00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset",
-			"ChunkId": "55c5d73fec0135d200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/HairDebugColor.uasset",
-			"ChunkId": "8efe6173efa8192200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/HairColorMap.uasset",
-			"ChunkId": "2c913f2705b478d900000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
-			"ChunkId": "0bf1d6a9c47f8ccc00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
-			"ChunkId": "0bf1d6a9c47f8ccc00000002"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
-			"ChunkId": "ba6543c81e92e56d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
-			"ChunkId": "ba6543c81e92e56d00000002"
-		},
-		{
 			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset",
 			"ChunkId": "200cd3dc0f3f673a00000001"
 		},
@@ -513,6 +429,58 @@
 			"ChunkId": "67d4e8f2a83a1c4800000001"
 		},
 		{
+			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"ChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset",
+			"ChunkId": "12bace0bc8b42ac000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+			"ChunkId": "e61c20398c40eda200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+			"ChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/UI/MainMenu/MainMenu_Controller.uasset",
+			"ChunkId": "b812bb5ace6c5b7800000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/Assets/M_BlueGoalGlass.uasset",
+			"ChunkId": "84fa982f00e4344200000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/Assets/M_RedGoalGlass.uasset",
+			"ChunkId": "f223258ba1992a5d00000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/Actors/BallPhysicalMaterial.uasset",
+			"ChunkId": "07df92f9d9e05bab00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
+			"ChunkId": "a8fda97722bfb0e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerBox.uasset",
+			"ChunkId": "8953c1244c740aad00000001"
+		},
+		{
 			"Path": "Engine/Content/EditorResources/S_Trigger.uasset",
 			"ChunkId": "9acae5549f0219b000000001"
 		},
@@ -543,10 +511,6 @@
 		{
 			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk",
 			"ChunkId": "b743bdd5e5df72a400000002"
-		},
-		{
-			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
-			"ChunkId": "52a5c49a743a12b500000001"
 		},
 		{
 			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
@@ -597,10 +561,6 @@
 			"ChunkId": "2917d76711e58ca300000001"
 		},
 		{
-			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset",
-			"ChunkId": "12bace0bc8b42ac000000001"
-		},
-		{
 			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset",
 			"ChunkId": "c6249d4d30bbac8400000001"
 		},
@@ -621,6 +581,22 @@
 			"ChunkId": "f87a01e7b138538a00000001"
 		},
 		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
+			"ChunkId": "ff5a26a059754af200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
+			"ChunkId": "2127f99d332bc85400000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
+			"ChunkId": "42a5bdf71bdb9f1200000001"
+		},
+		{
 			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
 			"ChunkId": "bd472f8cbf5f723d00000001"
 		},
@@ -639,6 +615,30 @@
 		{
 			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
 			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
+			"Path": "SpaceBalls/Content/FirstPerson/Maps/MainMenu_BuiltData.uasset",
+			"ChunkId": "f1c1864e0365882400000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/FirstPerson/Maps/MainMenu_BuiltData.ubulk",
+			"ChunkId": "f1c1864e0365882400000002"
+		},
+		{
+			"Path": "SpaceBalls/Content/Assets/M_BallGlass.uasset",
+			"ChunkId": "49cf0acb782bb0ba00000001"
 		},
 		{
 			"Path": "SpaceBalls/Content/FirstPerson/Blueprints/CharactersAndAnimations/Fast_Run_PhysicsAsset.uasset",
@@ -725,68 +725,12 @@
 			"ChunkId": "51f4a9204ba994c500000001"
 		},
 		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
-			"ChunkId": "c851afa144f311c000000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
-			"ChunkId": "6fab96d8842b418000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset",
-			"ChunkId": "3889933e64b3022c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
-			"ChunkId": "497b4263fbd333c800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
-			"ChunkId": "6c3a98c4aa151a5300000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
-			"ChunkId": "ef400c1f3fd91f2a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
-			"ChunkId": "b4d3126ba7954ec000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
-			"ChunkId": "eeb296b2a739309500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
-			"ChunkId": "e3ad05e4a2d7a17c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
-			"ChunkId": "27d7aeddb1b7c7fc00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
-			"ChunkId": "34b40296d0d3844e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
-			"ChunkId": "b1dd9666d4d25cf600000001"
-		},
-		{
 			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
 			"ChunkId": "eb26c788a1a10ea100000001"
 		},
 		{
 			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
 			"ChunkId": "eb26c788a1a10ea100000002"
-		},
-		{
-			"Path": "SpaceBalls/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
-			"ChunkId": "4fec0163af43e6cc00000001"
-		},
-		{
-			"Path": "SpaceBalls/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk",
-			"ChunkId": "4fec0163af43e6cc00000002"
 		},
 		{
 			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
@@ -829,12 +773,76 @@
 			"ChunkId": "eea799fff07e65d300000002"
 		},
 		{
+			"Path": "SpaceBalls/Content/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Normal.uasset",
+			"ChunkId": "5462509e237fe16200000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Normal.ubulk",
+			"ChunkId": "5462509e237fe16200000002"
+		},
+		{
 			"Path": "SpaceBalls/Content/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Specular.uasset",
 			"ChunkId": "a4601a46fe9a261600000001"
 		},
 		{
 			"Path": "SpaceBalls/Content/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Specular.ubulk",
 			"ChunkId": "a4601a46fe9a261600000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
+			"ChunkId": "34b40296d0d3844e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
+			"ChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
+			"ChunkId": "4fec0163af43e6cc00000001"
+		},
+		{
+			"Path": "SpaceBalls/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk",
+			"ChunkId": "4fec0163af43e6cc00000002"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
+			"ChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
+			"ChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset",
+			"ChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+			"ChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"ChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"ChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"ChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+			"ChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"ChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+			"ChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
@@ -1023,14 +1031,6 @@
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk",
 			"ChunkId": "0d2d768a1192b97000000002"
-		},
-		{
-			"Path": "SpaceBalls/Content/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Normal.uasset",
-			"ChunkId": "5462509e237fe16200000001"
-		},
-		{
-			"Path": "SpaceBalls/Content/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Normal.ubulk",
-			"ChunkId": "5462509e237fe16200000002"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset",
@@ -1747,62 +1747,6 @@
 			"PackageChunkId": "a8a408dbac6bb61700000001"
 		},
 		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackInteger3",
-			"PackageChunkId": "7b967f8ff09764ce00000001"
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackDirection",
-			"PackageChunkId": "931f8593c76b1a3700000001"
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion",
-			"PackageChunkId": "3bd77c49df92ee7b00000001"
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion",
-			"PackageChunkId": "bb0c9910913c4acc00000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength",
-			"PackageChunkId": "3f4f90b51972562400000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize",
-			"PackageChunkId": "b2e55f36209c19b000000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds",
-			"PackageChunkId": "8d4486caf50605b200000001"
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset",
-			"PackageChunkId": "84ee12d7bc5f5a8000000001"
-		},
-		{
-			"Name": "/ControlRig/Controls/DefaultGizmoLibraryNormalized",
-			"PackageChunkId": "c1ceadea19a929af00000001"
-		},
-		{
-			"Name": "/Engine/Tutorial/ContentIntroCurve",
-			"PackageChunkId": "3cf25e9da31d4f2a00000001"
-		},
-		{
-			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
-			"PackageChunkId": "a325708448a8980800000001"
-		},
-		{
-			"Name": "/HairStrands/Materials/HairCardsDefaultMaterial",
-			"PackageChunkId": "a257a4a1759b7c6d00000001"
-		},
-		{
-			"Name": "/HairStrands/Materials/HairDefaultMaterial",
-			"PackageChunkId": "7bae9d93c88ae44900000001"
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
-			"PackageChunkId": "efd3b99beb745ea100000001"
-		},
-		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture",
 			"PackageChunkId": "b60fa590a5fe4d6f00000001"
 		},
@@ -1920,12 +1864,82 @@
 			"PackageChunkId": "8500a33b2fedbab800000001"
 		},
 		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackInteger3",
+			"PackageChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackDirection",
+			"PackageChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion",
+			"PackageChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion",
+			"PackageChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength",
+			"PackageChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize",
+			"PackageChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds",
+			"PackageChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset",
+			"PackageChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/DefaultGizmoLibraryNormalized",
+			"PackageChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Name": "/Engine/Tutorial/ContentIntroCurve",
+			"PackageChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Solver",
+			"PackageChunkId": "5c918efb403d4bb200000001",
+			"BulkDataChunkIds": [
+				"5c918efb403d4bb200000002"
+			]
+		},
+		{
+			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
+			"PackageChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairCardsDefaultMaterial",
+			"PackageChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDefaultMaterial",
+			"PackageChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
 			"Name": "/Engine/EngineDebugMaterials/VolumeToRender",
 			"PackageChunkId": "7f8259be57e87dce00000001"
 		},
 		{
 			"Name": "/SpeedTreeImporter/SpeedTree9/EmptyNormal",
 			"PackageChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
+			"PackageChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
+			"PackageChunkId": "27d3dbbd9cb5875a00000001",
+			"BulkDataChunkIds": [
+				"27d3dbbd9cb5875a00000002"
+			]
 		},
 		{
 			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
@@ -1935,11 +1949,8 @@
 			]
 		},
 		{
-			"Name": "/Engine/EditorResources/S_Solver",
-			"PackageChunkId": "5c918efb403d4bb200000001",
-			"BulkDataChunkIds": [
-				"5c918efb403d4bb200000002"
-			]
+			"Name": "/HairStrands/Materials/HairGroupColors",
+			"PackageChunkId": "55c5d73fec0135d200000001"
 		},
 		{
 			"Name": "/Engine/EditorLandscapeResources/DataLayer",
@@ -1984,6 +1995,28 @@
 		{
 			"Name": "/Engine/VREditor/TransformGizmo/Main",
 			"PackageChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairDebugColor",
+			"PackageChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairColorMap",
+			"PackageChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
+			"PackageChunkId": "0bf1d6a9c47f8ccc00000001",
+			"BulkDataChunkIds": [
+				"0bf1d6a9c47f8ccc00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+			"PackageChunkId": "ba6543c81e92e56d00000001",
+			"BulkDataChunkIds": [
+				"ba6543c81e92e56d00000002"
+			]
 		},
 		{
 			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
@@ -2037,121 +2070,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"PackageChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
-		},
-		{
-			"Name": "/Engine/Maps/Entry_BuiltData",
-			"PackageChunkId": "f95ade32d57ba98c00000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/M_SimpleSkyDome",
-			"PackageChunkId": "e61c20398c40eda200000001"
-		},
-		{
-			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
-			"PackageChunkId": "72ff6427f1042ed200000001"
-		},
-		{
-			"Name": "/Game/UI/MainMenu/MainMenu_Controller",
-			"PackageChunkId": "b812bb5ace6c5b7800000001"
-		},
-		{
-			"Name": "/Game/Assets/M_BlueGoalGlass",
-			"PackageChunkId": "84fa982f00e4344200000001"
-		},
-		{
-			"Name": "/Game/Assets/M_RedGoalGlass",
-			"PackageChunkId": "f223258ba1992a5d00000001"
-		},
-		{
-			"Name": "/Game/Actors/BallPhysicalMaterial",
-			"PackageChunkId": "07df92f9d9e05bab00000001"
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
-			"PackageChunkId": "27d3dbbd9cb5875a00000001",
-			"BulkDataChunkIds": [
-				"27d3dbbd9cb5875a00000002"
-			]
-		},
-		{
-			"Name": "/Game/Assets/M_BallGlass",
-			"PackageChunkId": "49cf0acb782bb0ba00000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"PackageChunkId": "2d5d52b0905803e600000001",
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
-		},
-		{
-			"Name": "/Game/FirstPerson/Maps/MainMenu_BuiltData",
-			"PackageChunkId": "f1c1864e0365882400000001",
-			"BulkDataChunkIds": [
-				"f1c1864e0365882400000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/WhiteSquareTexture",
-			"PackageChunkId": "b85ee5fd59f4dd2000000001"
-		},
-		{
-			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
-			"PackageChunkId": "ff5a26a059754af200000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/MAT_Groups_Visibility",
-			"PackageChunkId": "2127f99d332bc85400000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
-			"PackageChunkId": "42a5bdf71bdb9f1200000001"
-		},
-		{
-			"Name": "/Engine/EditorResources/S_TriggerCapsule",
-			"PackageChunkId": "a8fda97722bfb0e600000001"
-		},
-		{
-			"Name": "/Engine/EditorResources/S_TriggerBox",
-			"PackageChunkId": "8953c1244c740aad00000001"
-		},
-		{
-			"Name": "/HairStrands/Materials/HairGroupColors",
-			"PackageChunkId": "55c5d73fec0135d200000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/HairDebugColor",
-			"PackageChunkId": "8efe6173efa8192200000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/HairColorMap",
-			"PackageChunkId": "2c913f2705b478d900000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
-			"PackageChunkId": "0bf1d6a9c47f8ccc00000001",
-			"BulkDataChunkIds": [
-				"0bf1d6a9c47f8ccc00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
-			"PackageChunkId": "ba6543c81e92e56d00000001",
-			"BulkDataChunkIds": [
-				"ba6543c81e92e56d00000002"
-			]
-		},
-		{
 			"Name": "/Engine/VREditor/LaserPointer/VR_LaserPower_01",
 			"PackageChunkId": "200cd3dc0f3f673a00000001",
 			"BulkDataChunkIds": [
@@ -2193,6 +2111,58 @@
 			"PackageChunkId": "67d4e8f2a83a1c4800000001"
 		},
 		{
+			"Name": "/Engine/EngineFonts/RobotoDistanceField",
+			"PackageChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
+			"PackageChunkId": "12bace0bc8b42ac000000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/M_SimpleSkyDome",
+			"PackageChunkId": "e61c20398c40eda200000001"
+		},
+		{
+			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageChunkId": "72ff6427f1042ed200000001"
+		},
+		{
+			"Name": "/Game/UI/MainMenu/MainMenu_Controller",
+			"PackageChunkId": "b812bb5ace6c5b7800000001"
+		},
+		{
+			"Name": "/Game/Assets/M_BlueGoalGlass",
+			"PackageChunkId": "84fa982f00e4344200000001"
+		},
+		{
+			"Name": "/Game/Assets/M_RedGoalGlass",
+			"PackageChunkId": "f223258ba1992a5d00000001"
+		},
+		{
+			"Name": "/Game/Actors/BallPhysicalMaterial",
+			"PackageChunkId": "07df92f9d9e05bab00000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerCapsule",
+			"PackageChunkId": "a8fda97722bfb0e600000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerBox",
+			"PackageChunkId": "8953c1244c740aad00000001"
+		},
+		{
 			"Name": "/Engine/EditorResources/S_Trigger",
 			"PackageChunkId": "9acae5549f0219b000000001",
 			"BulkDataChunkIds": [
@@ -2219,10 +2189,6 @@
 			"BulkDataChunkIds": [
 				"b743bdd5e5df72a400000002"
 			]
-		},
-		{
-			"Name": "/Engine/EngineFonts/RobotoDistanceField",
-			"PackageChunkId": "52a5c49a743a12b500000001"
 		},
 		{
 			"Name": "/Engine/EngineResources/DefaultVolumeTexture2D",
@@ -2272,10 +2238,6 @@
 			"PackageChunkId": "2917d76711e58ca300000001"
 		},
 		{
-			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
-			"PackageChunkId": "12bace0bc8b42ac000000001"
-		},
-		{
 			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster",
 			"PackageChunkId": "c6249d4d30bbac8400000001"
 		},
@@ -2296,6 +2258,22 @@
 			"PackageChunkId": "f87a01e7b138538a00000001"
 		},
 		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"PackageChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
+			"PackageChunkId": "ff5a26a059754af200000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MAT_Groups_Visibility",
+			"PackageChunkId": "2127f99d332bc85400000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
+			"PackageChunkId": "42a5bdf71bdb9f1200000001"
+		},
+		{
 			"Name": "/Engine/EditorResources/S_Actor",
 			"PackageChunkId": "bd472f8cbf5f723d00000001",
 			"BulkDataChunkIds": [
@@ -2313,6 +2291,28 @@
 		{
 			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
 			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
+			"Name": "/Game/FirstPerson/Maps/MainMenu_BuiltData",
+			"PackageChunkId": "f1c1864e0365882400000001",
+			"BulkDataChunkIds": [
+				"f1c1864e0365882400000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/M_BallGlass",
+			"PackageChunkId": "49cf0acb782bb0ba00000001"
 		},
 		{
 			"Name": "/Game/FirstPerson/Blueprints/CharactersAndAnimations/Fast_Run_PhysicsAsset",
@@ -2398,65 +2398,10 @@
 			"PackageChunkId": "51f4a9204ba994c500000001"
 		},
 		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
-			"PackageChunkId": "c851afa144f311c000000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
-			"PackageChunkId": "6fab96d8842b418000000001"
-		},
-		{
-			"Name": "/HairStrands/Materials/HairDebugMaterial",
-			"PackageChunkId": "3889933e64b3022c00000001"
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
-			"PackageChunkId": "497b4263fbd333c800000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
-			"PackageChunkId": "6c3a98c4aa151a5300000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
-			"PackageChunkId": "ef400c1f3fd91f2a00000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultMaterial",
-			"PackageChunkId": "b4d3126ba7954ec000000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
-			"PackageChunkId": "eeb296b2a739309500000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
-			"PackageChunkId": "e3ad05e4a2d7a17c00000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
-			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
-			"PackageChunkId": "34b40296d0d3844e00000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
-			"PackageChunkId": "b1dd9666d4d25cf600000001"
-		},
-		{
 			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
 			"PackageChunkId": "eb26c788a1a10ea100000001",
 			"BulkDataChunkIds": [
 				"eb26c788a1a10ea100000002"
-			]
-		},
-		{
-			"Name": "/Game/LevelPrototyping/Textures/T_GridChecker_A",
-			"PackageChunkId": "4fec0163af43e6cc00000001",
-			"BulkDataChunkIds": [
-				"4fec0163af43e6cc00000002"
 			]
 		},
 		{
@@ -2495,11 +2440,73 @@
 			]
 		},
 		{
+			"Name": "/Game/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Normal",
+			"PackageChunkId": "5462509e237fe16200000001",
+			"BulkDataChunkIds": [
+				"5462509e237fe16200000002"
+			]
+		},
+		{
 			"Name": "/Game/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Specular",
 			"PackageChunkId": "a4601a46fe9a261600000001",
 			"BulkDataChunkIds": [
 				"a4601a46fe9a261600000002"
 			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
+			"PackageChunkId": "34b40296d0d3844e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
+			"PackageChunkId": "b1dd9666d4d25cf600000001"
+		},
+		{
+			"Name": "/Game/LevelPrototyping/Textures/T_GridChecker_A",
+			"PackageChunkId": "4fec0163af43e6cc00000001",
+			"BulkDataChunkIds": [
+				"4fec0163af43e6cc00000002"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
+			"PackageChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
+			"PackageChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDebugMaterial",
+			"PackageChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
+			"PackageChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+			"PackageChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"PackageChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultMaterial",
+			"PackageChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
+			"PackageChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"PackageChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
+			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
@@ -2672,13 +2679,6 @@
 			"PackageChunkId": "0d2d768a1192b97000000001",
 			"BulkDataChunkIds": [
 				"0d2d768a1192b97000000002"
-			]
-		},
-		{
-			"Name": "/Game/FirstPerson/Blueprints/CharactersAndAnimations/Ch03_1001_Normal",
-			"PackageChunkId": "5462509e237fe16200000001",
-			"BulkDataChunkIds": [
-				"5462509e237fe16200000002"
 			]
 		},
 		{
