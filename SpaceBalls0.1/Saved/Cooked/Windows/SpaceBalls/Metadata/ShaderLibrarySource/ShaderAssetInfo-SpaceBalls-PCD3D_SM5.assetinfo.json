@@ -90,7 +90,12 @@
 			"ShaderMapHash": "7FEB493768E80E6232C5213C61727BFF86F400CA",
 			"Assets": [
 				"/Game/Assets/M_BlueGoalGlass",
-				"/Game/Assets/M_RedGoalGlass",
+				"/Game/Assets/M_RedGoalGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "7A569AA22859ADB1F4D8767F004218BD9C377146",
+			"Assets": [
 				"/Game/Assets/M_BouncePad"
 			]
 		},
@@ -98,6 +103,12 @@
 			"ShaderMapHash": "29CF6465FE6C622CE6C7F91730217E3FC9DC11C2",
 			"Assets": [
 				"/Game/Assets/M_BallGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
